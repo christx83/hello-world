@@ -1,4 +1,4 @@
 # hello-world
-nothing special
+it's something special
 
 It's hot outside, and I need some ice water!
